@@ -12,9 +12,9 @@ return {
           accent = "red",
         },
         editor = {
-          transparent_background = true,
+          transparent_background = false,
           sign = { color = "none" },
-          float = { color = "mantle", solid_border = false },
+          float = { color = "mantle", solid_border = true },
           completion = { color = "surface0" },
         },
         integrations = {
